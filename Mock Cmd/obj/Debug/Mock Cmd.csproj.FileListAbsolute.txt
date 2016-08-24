@@ -1,0 +1,5 @@
+C:\Users\Calvv\Source\Repos\Mock-Syskey\Mock Cmd\Mock Cmd\bin\Debug\Mock Cmd.exe
+C:\Users\Calvv\Source\Repos\Mock-Syskey\Mock Cmd\Mock Cmd\bin\Debug\Mock Cmd.pdb
+C:\Users\Calvv\Source\Repos\Mock-Syskey\Mock Cmd\Mock Cmd\obj\Debug\Mock Cmd.csprojResolveAssemblyReference.cache
+C:\Users\Calvv\Source\Repos\Mock-Syskey\Mock Cmd\Mock Cmd\obj\Debug\Mock Cmd.exe
+C:\Users\Calvv\Source\Repos\Mock-Syskey\Mock Cmd\Mock Cmd\obj\Debug\Mock Cmd.pdb

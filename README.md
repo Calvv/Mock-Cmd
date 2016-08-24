@@ -1,2 +1,2 @@
 # Mock-Cmd
-This is a face command Prompt
+This is a fake command Prompt
